@@ -22,6 +22,4 @@ public class HelloController {
 	public String objetivos() {
 		return "<title> Projeto Generation </title>" + "<font size = 7> As metas de aprendizado para essa semana são as seguintes:" + "<font size = 4><br>- Aprender mais sobre Spring Boot;" + "<br>- Terminar o módulo de MySQL;" + "<br>- Completar o escopo do projeto integrador.";
 	}
-	
-	
 }
